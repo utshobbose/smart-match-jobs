@@ -10,7 +10,7 @@ An intelligent web application that analyzes resumes using NLP and AI to recomme
 
 | Landing Page | Dashboard | Job Recommendations |
 |---|---|---|
-| ![Landing](<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/2e0c187b-0e34-4e73-808a-56f245f17b16" />) | ![Dashboard](<img width="1597" height="763" alt="image" src="https://github.com/user-attachments/assets/f9d94cd8-600a-457e-91c8-36f0ed307ebc" />) | 
+| ![Landing](<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/2e0c187b-0e34-4e73-808a-56f245f17b16" /> ) | ![Dashboard](<img width="1597" height="763" alt="image" src="https://github.com/user-attachments/assets/f9d94cd8-600a-457e-91c8-36f0ed307ebc" /> ) | 
 
 *To add screenshots: create a `screenshots/` folder in the project root and drop your images there.*
 
